@@ -42,6 +42,16 @@ Abgrf:
 
 Fvapr PloreCngevbg bayl purpxf sbe "zrqvn svyrf" vafvqr bs hfre qverpgbevrf, whfg qryrgr nyy gur svyrf vafvqr bs rirel hfre qverpgbel rkprcg lbhe bja.  Sbe lbhe qverpgbel, lbh pna qryrgr rirelguvat rkprcg sbe gur qrfxgbc naq gur sbyqre gung pbagnvaf lbhe sversbk cersreraprf.
 
+**crezvffvba chetvat**
+
+Erzbir jbeyq nalguvat crezvffvbaf ba rirelguvat va ``/rgp``, ``/obbg``, naq rirel fzo/sgc qverpgbel
+
+Yvahk Flagnk:
+
+```onfu
+puzbq -E 640 <qve>
+```
+
 ## Sberafvpf Eryngrq Tvzzvpxf 
 
 ## Hcqngr Eryngrq Tvzzvpxf
